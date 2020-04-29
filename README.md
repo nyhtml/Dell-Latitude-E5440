@@ -1,8 +1,6 @@
 # Dell Latitude E5440
 The Dell Latitude E5440 Hackintosh Laptop Project
 
-<a title="All Systems" href="https://www.dualbootpc.com/systems/">All Systems</a> &gt; <a title="HackBook Systems" href="/systems/laptop/">HackBook Systems</a> &gt; <a title="Dell Latitude E5440" href="/systems/laptop/e5440/">Dell Latitude E5440</a> &gt; Reviews
-
 The Dell Latitude E5440 is a great mid-range business anotebook and has a solid build in our personal experience. Everything works perfectly under <a title="Windows" href="/software/windows/">Windows</a> (which it was designed for) and only loses access to the internal Wi-Fi and has a minor Bluetooth connectivity issue on <a title="macOS" href="/software/macos/">macOS</a>. The <a title="WiFi" href="/systems/laptop/e5440/parts/">WiFi</a> issue can be permanently fixed by swapping out the internal card or by adding a USB WiFi adapter if you have multiple laptops. For the intermittent <a title="Bluetooth" href="/systems/laptop/e5440/parts/">Bluetooth</a> issues, use a USB Bluetooth adapter or start the HackBook with a smartphone connected by USB cable. If your smartphone is Android, take advantage of <a title="HoRNDIS" href="/software/utility/horndis/">USB Tethering</a>. If you have small kids that love to play online games, the Dell Latitude E5440 HackBook is perfect for them to learn on while keeping your actual MacBook safe from the occasional drops and spills.
 
 # <strong>Battery</strong>
