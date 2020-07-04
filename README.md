@@ -1,9 +1,7 @@
 # Dell Latitude E5440 Hackintosh Laptop<br>
 ★ Intel Core i5-4300u 1.9GHz Processor<br>
-★ 8GB/16GB DDR3 RAM<br>
+★ 16GB DDR3 RAM<br>
 ★ Dell 500GB HDD Drive (7mm and partitioned for Dual-booting)<br>
-★ Microsoft Windows 10 Professional (64-Bit)<br>
-★ Apple macOS Mojave 10.14.6.<br>
 ★ Dell 14-inch HD (1366×768) or 14-inch HD+ (1600×900) Anti-Glare LED-backlit display<br>
 ★ Dell 65W AC Adapter with 6-foot cord<br>
 ★ Dell 65W VV0NF Rechargeable Battery<br>
