@@ -1,7 +1,7 @@
 # <a title="Dell Latitude E5440 Hackintosh Laptop" href="https://www.gixxerpc.com/systems/laptop/e5440/#reddit">Dell Latitude E5440 Hackintosh Laptop</a><br>
 ★ Intel Core i5-4300u 1.9GHz Processor<br>
 ★ 16GB DDR3 RAM<br>
-★ Dell 500GB HDD Drive (7mm and partitioned for Dual-booting)<br>
+★ Dell 1TB SSD (7mm and partitioned for Multi-booting)<br>
 ★ Dell 14-inch HD (1366×768) or 14-inch HD+ (1600×900) Anti-Glare LED-backlit display<br>
 ★ Dell 65W AC Adapter with 6-foot cord<br>
 ★ Dell 65W VV0NF Rechargeable Battery<br>
