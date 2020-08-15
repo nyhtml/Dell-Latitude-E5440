@@ -1,4 +1,4 @@
-# <a title="Dell Latitude E5440 Hackintosh Laptop" href="https://www.gixxerpc.com/systems/laptop/e5440/#gthub">Dell Latitude E5440 Hackintosh Laptop</a><br>
+# <a title="Dell Latitude E5440 Hackintosh Laptop" href="https://www.gixxerpc.com/systems/laptop/e5440/#github">Dell Latitude E5440 Hackintosh Laptop</a><br>
 ★ Intel Core i5-4300u 1.9GHz Processor<br>
 ★ 16GB DDR3 RAM<br>
 ★ Samsung 1TB SSD (7mm and partitioned for Multi-booting)<br>
