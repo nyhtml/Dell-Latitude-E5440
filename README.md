@@ -22,5 +22,4 @@
 <br>
 # Compatibility<br>
 The latest <a href="https://github.com/Sipylus/OS">Operating System</a> that our <a href="https://github.com/Sipylus/Dell-Latitude-E5440/releases">releases</a> support is Mojave 10.14.6.
-
-# Demonstration<br>
+![19A487](https://user-images.githubusercontent.com/2177262/87308237-eb752080-c4e8-11ea-861d-50d80f2cc026.jpg)
