@@ -10,7 +10,7 @@ The Dell Latitude E5440 Hackintosh Laptop Project
 * [Configure Clover](#configure-clover)
 * [BIOS Settings](#bios-settings-version-f12c)
 * [Prepare for macOS Installation](#prepare-for-macos-installation)
-* [Install macOS Catalina](#install-macos-catalina)
+* [Install macOS Mojave](#install-macos-mojave)
 * [Post Installation](#post-installation)
   * [Make macOS Drive Bootable](#make-macos-drive-bootable)
   * [Enable the Discrete Graphics Card with Headless iGPU](#enable-the-discrete-graphics-card-with-headless-igpu)
@@ -41,3 +41,16 @@ The Dell Latitude E5440 Hackintosh Laptop Project
 ★ Non-Backlit Keyboard (Backlit Keyboard available)<br>
 
 View the complete build on [Gixxer PC](https://gixxer.us): https://gixxer.us/2T0stFx
+
+## Prepare Install Media
+
+1. Download the [macOS Mojave installer](https://www.dualbootpc.com/software/system/macos/mojave/) (v10.15.1) from the Mac App Store
+2. Open Terminal and format the target USB drive as with the following command:
+
+    `diskutil partitionDisk /dev/{YOUR_DISK_ID} GPT JHFS+ "USB" 100%`
+    
+3. [Create the bootable macOS installer](https://www.dualbootpc.com/guide/creating-a-usb-installer/): 
+
+    `sudo /Applications/Install\ macOS\ Mojave.app/Contents/Resources/createinstallmedia --volume /Volumes/GixxerUSB /Applications/Install\ macOS\ Mojave.app`
+
+4. Once the program finishes, your USB drive should now be called `Install macOS Mojave`
