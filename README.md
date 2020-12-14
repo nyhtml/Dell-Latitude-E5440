@@ -1,2 +1,43 @@
 # Dell Latitude E5440
 The Dell Latitude E5440 Hackintosh Laptop Project
+
+## Table of Contents
+
+* [The Build](#the-build)
+* [Prepare Install Media](#prepare-install-media)
+* [Install Clover](#install-clover)
+* [Gather Kexts](#gather-kexts)
+* [Configure Clover](#configure-clover)
+* [BIOS Settings](#bios-settings-version-f12c)
+* [Prepare for macOS Installation](#prepare-for-macos-installation)
+* [Install macOS Catalina](#install-macos-catalina)
+* [Post Installation](#post-installation)
+  * [Make macOS Drive Bootable](#make-macos-drive-bootable)
+  * [Enable the Discrete Graphics Card with Headless iGPU](#enable-the-discrete-graphics-card-with-headless-igpu)
+  * [Map USB Ports](#map-usb-ports)
+  * [Enable Bluetooth](#enable-bluetooth)
+  * [Enable FileVault](#enable-filevault)
+  * [Enable TRIM for Solid State Drives](#enable-trim-for-solid-state-drives)
+  * [Fix CPU Type in About This Mac](#fix-cpu-type-in-about-this-mac)
+  * [Fix Memory Tab in About This Mac](#fix-memory-tab-in-about-this-mac)
+  * [Install Clover Theme](#install-clover-theme)
+* [Install Windows 10](#install-windows-10)
+* [Final BIOS Settings](#final-bios-settings)
+* [Final Clover Configuration](#final-clover-configuration)
+* [Benchmarks](#benchmarks)
+* [Issues](#issues)
+* [Upgrade Log](#upgrade-log)
+* [References](#references)
+* [Resources](#resources)
+
+## The Build
+
+★ Intel Core i5-4300u 1.9GHz Processor<br>
+★ 16GB DDR3 RAM<br>
+★ Samsung 1TB SSD (7mm and partitioned for Multi-booting)<br>
+★ Dell 14-inch HD (1366×768) or 14-inch HD+ (1600×900) Anti-Glare LED-backlit display<br>
+★ Dell 65W AC Adapter with 6-foot cord<br>
+★ Dell 65W VV0NF Rechargeable Battery<br>
+★ Non-Backlit Keyboard (Backlit Keyboard available)<br>
+
+View the complete build on [Gixxer PC](https://gixxer.us): https://gixxer.us/2T0stFx
