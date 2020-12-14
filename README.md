@@ -38,9 +38,9 @@ The Dell Latitude E5440 Hackintosh Laptop Project
 ★ Dell 14-inch HD (1366×768) or 14-inch HD+ (1600×900) Anti-Glare LED-backlit display<br>
 ★ Dell 65W AC Adapter with 6-foot cord<br>
 ★ Dell 65W VV0NF Rechargeable Battery<br>
-★ Non-Backlit Keyboard (Backlit Keyboard available)<br>
+★ Dell Backlit Keyboard<br>
 
-View the complete build on [Gixxer PC](https://gixxer.us): https://gixxer.us/2T0stFx
+View the complete build on [Gixxer PC](https://www.dualbootpc.com): **https://gixxer.us/2T0stFx**
 
 ## Prepare Install Media
 
