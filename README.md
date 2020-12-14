@@ -47,7 +47,7 @@ View the complete build on [Gixxer PC](https://gixxer.us): https://gixxer.us/2T0
 1. Download the [macOS Mojave installer](https://www.dualbootpc.com/software/system/macos/mojave/) (v10.15.1) from the Mac App Store
 2. Open Terminal and format the target USB drive as with the following command:
 
-    `diskutil partitionDisk /dev/{YOUR_DISK_ID} GPT JHFS+ "USB" 100%`
+    `diskutil partitionDisk /dev/{YOUR_DISK_ID} GPT JHFS+ "GixxerUSB" 100%`
     
 3. [Create the bootable macOS installer](https://www.dualbootpc.com/guide/creating-a-usb-installer/): 
 
