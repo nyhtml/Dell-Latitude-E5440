@@ -5,9 +5,10 @@ The Dell Latitude E5440 Hackintosh Laptop Project
 
 * [The Build](#the-build)
 * [Prepare Install Media](#prepare-install-media)
-* [Install Clover](#install-clover)
+* [Install bootloader](#install-bootloader)
+  * [Configure Clover](#configure-clover)
+  * [Configure OpenCore](#configure-opencore)
 * [Gather Kexts](#gather-kexts)
-* [Configure Clover](#configure-clover)
 * [BIOS Settings](#bios-settings-version-f12c)
 * [Prepare for macOS Installation](#prepare-for-macos-installation)
 * [Install macOS Mojave](#install-macos-mojave)
