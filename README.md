@@ -46,4 +46,6 @@ The complete [specs](https://www.dualbootpc.com/systems/laptop/e5440/specs/) use
 
     `sudo /Applications/Install\ macOS\ Mojave.app/Contents/Resources/createinstallmedia --volume /Volumes/GixxerUSB /Applications/Install\ macOS\ Mojave.app`
 
-4. Once the program finishes, your [USB drive](https://www.dualbootpc.com/hardware/usb/) should now be called `Install macOS Mojave`
+4. Once the program finishes, your [USB drive](https://www.dualbootpc.com/hardware/usb/) should now be called the following:
+
+    `Install macOS Mojave`
