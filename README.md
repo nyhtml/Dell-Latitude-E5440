@@ -5,7 +5,7 @@ The Dell Latitude E5440 Hackintosh Laptop Project
 
 * [The Build](#the-build)
 * [Prepare Install Media](#prepare-install-media)
-* [Install bootloader](#install-bootloader)
+* [Install a Bootloader](#install-a-bootloader)
   * [Configure Clover](#configure-clover)
   * [Configure OpenCore](#configure-opencore)
 * [Gather Kexts](#gather-kexts)
@@ -49,3 +49,5 @@ The complete [specs](https://www.dualbootpc.com/systems/laptop/e5440/specs/) use
 4. Once the program finishes, your [USB drive](https://www.dualbootpc.com/hardware/usb/) should now be called the following:
 
     `Install macOS Mojave`
+    
+## Install a Bootloader
