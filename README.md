@@ -33,14 +33,14 @@ The Dell Latitude E5440 Hackintosh Laptop Project
 
 ## The Build
 
-The [complete build](https://www.dualbootpc.com/systems/laptop/e5440/specs/) and updates are here: **https://gixxer.us/2T0stFx**
+The complete [specs](https://www.dualbootpc.com/systems/laptop/e5440/specs/) used for the build and continous updates are listed here: **https://gixxer.us/2T0stFx**
 
 ## Prepare Install Media
 
 1. Download the [macOS Mojave installer](https://www.dualbootpc.com/software/system/macos/mojave/) (v10.14.6) from the Mac App Store
 2. Open Terminal and format the target USB drive as with the following command:
 
-    `diskutil partitionDisk /dev/{YOUR_DISK_ID} GPT JHFS+ "GixxerUSB" 100%`
+    `t{YOUR_DISK_ID} GPT JHFS+ "GixxerUSB" 100%`
     
 3. [Create the bootable macOS installer](https://www.dualbootpc.com/guide/creating-a-usb-installer/): 
 
