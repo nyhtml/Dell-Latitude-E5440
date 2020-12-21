@@ -33,9 +33,7 @@ The Dell Latitude E5440 Hackintosh Laptop Project
 
 ## The Build
 
-The complete [specs](https://www.dualbootpc.com/systems/laptop/e5440/specs/) used for the build and continous updates are listed here:
-
-    `http://gixxer.us/2T0stFx`
+The complete [specs](https://www.dualbootpc.com/systems/laptop/e5440/specs/) used for the build and continous updates are listed here: `http://gixxer.us/2T0stFx`
 
 ## Prepare Install Media
 
