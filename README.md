@@ -44,7 +44,7 @@ The complete [specs](https://www.dualbootpc.com/systems/laptop/e5440/specs/) use
     
 3. [Create the bootable macOS installer](https://www.dualbootpc.com/guide/creating-a-usb-installer/): 
 
-    `sudo /Applications/Install\ macOS\ Mojave.app/Contents/Resources/createinstallmedia --volume /Volumes/GixxerUSB /Applications/Install\ macOS\ Mojave.app`
+    `sudo /Applications/Install\ macOS\ Mojave.app/Contents/Resources/createinstallmedia --volume /Volumes/MojaveUSB /Applications/Install\ macOS\ Mojave.app`
 
 4. Once the program finishes, your [USB drive](https://www.dualbootpc.com/hardware/usb/) should now be called the following:
 
