@@ -66,3 +66,14 @@ The complete [specs](https://www.dualbootpc.com/systems/laptop/e5440/specs/) use
       * OsxAptioFix3Drv
     * Additional drivers
       * EmuVariableUefi
+
+#### Configure OpenCore
+
+* Download OpenCore
+* Install Clover to the USB device and customize with the following options:
+  * Step 1
+    * Action 1
+  * Step 2
+    * Action 1
+    * Action 2 
+  * Step 3
