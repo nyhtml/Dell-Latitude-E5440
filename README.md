@@ -52,7 +52,7 @@ The complete [specs](https://www.dualbootpc.com/systems/laptop/e5440/specs/) use
     
 ## Install a Bootloader
 
-Configure Clover
+#### Configure Clover
 
 * Download [Clover Install Package](https://github.com/Dids/clover-builder/releases) (v2.5k_r5097) and [Clover Configurator Global Edition](http://mackie100projects.altervista.org/download-clover-configurator/) (v5.7.0.0)
 * Install Clover to the USB device and customize with the following options:
