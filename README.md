@@ -77,3 +77,6 @@ The complete [specs](https://www.dualbootpc.com/systems/laptop/e5440/specs/) use
     * Action 1
     * Action 2 
   * Step 3
+    * Action 1
+    * Action 2 
+    * Action 3
